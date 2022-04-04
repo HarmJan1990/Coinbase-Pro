@@ -23,7 +23,7 @@
         "phpunit/phpunit": "^9"
     },
     "require": {
-        "ratchet/pawl": "^0.3.5",
+        "ratchet/pawl": "^0.3.0",
         "guzzlehttp/guzzle": "^7.3"
     }
 }
